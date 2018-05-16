@@ -5,15 +5,13 @@ date:   2018-05-16 05:30:42 -0400
 categories: Front End
 ---
 
-If you're looking for a way to take your Google Sheet data and access it through JSON you can with a few simple steps.  
+If you're looking for a way to access your Google Sheet data through JSON you can with a few simple steps.  
 
-Alright, let's get down to business, shall we?
-
-Step 1
+### Step 1
 
 If you haven't done so already please [sign up at Google](https://accounts.google.com/signup/v2/webcreateaccount?hl=en-GB&flowName=GlifWebSignIn&flowEntry=SignUp) for a Gmail account. 
 
-Step 2 
+### Step 2 
 
 Go to your Google Drive and open one of your google sheets or create a new one if you haven't done so already. Now that you have it open I want to mention the first row in your google sheet will act as keys for your properties. Below I have the examples of some keys highlighted. 
 
