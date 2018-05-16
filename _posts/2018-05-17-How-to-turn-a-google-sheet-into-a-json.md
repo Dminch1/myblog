@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to turn a Google Sheet into JSON with 5 easy steps."
+title:  "How to convert a Google Sheet into JSON with 5 easy steps."
 date:   2018-05-16 05:30:42 -0400
 categories: Front End
 ---
