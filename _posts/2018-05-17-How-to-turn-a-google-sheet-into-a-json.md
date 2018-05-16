@@ -19,13 +19,13 @@ Go to your Google Drive and open one of your google sheets or create a new one i
 
 ### Step 3
 
-In the upper right-hand corner of your Google sheet should be a share button. Once you click it a popup window should appear and you will need to click on the Advanced button at the bottom right corner of the window. You will need to change the "who has access" to Public. Another thing to keep in mind while making your sheet public to the internet is the fact anyone can now see it so keep that in mind.
+In the upper right-hand corner of your Google sheet should be a share button. Once you click it, a popup window should appear, and you will need to click on the Advanced button at the bottom right corner of the window. You will need to change the “who has access” to Public. Another thing to keep in mind while making your sheet public to the internet is the fact anyone can now see it so keep that in mind.
 
 ![My helpful screenshot]({{ "/assets/Googlesheet2.jpg" | absolute_url }})
 
 ### Step 4
 
-Next you will want to get the shareable link by clicking the share button in the top left corner of your sheet. You will aslo need to take note of the Sheet name in the bottom left corner.
+Next, you will want to get the shareable link by clicking the share button in the top left corner of your sheet. You will also need to take note of the Sheet name in the bottom left corner.
 
 ![My helpful screenshot]({{ "/assets/Googlesheet3.jpg" | absolute_url }})
 
